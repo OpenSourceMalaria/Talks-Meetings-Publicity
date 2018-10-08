@@ -1,2 +1,4 @@
 # Talks-Meetings-Publicity
-All materials related to PR, comms, presentations, articles and OSM meetings
+This is a repository of most of the non-science materials from Open Source Malaria. 
+
+Here you will find (and can add to) materials related to publicity or articles about the project, as well as presentations that have been made about OSM and OSM's own meeting notes/materials. If it's not research, and it's not Tech Ops, put it somewhere here.
